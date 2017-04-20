@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">P01-DailyGoals</string>
+    <string name="read_up_on_materials_before_class">Read Up on materials before class</string>
+    <string name="back">Back</string>
+</resources>
